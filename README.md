@@ -105,6 +105,8 @@ Issue ID | Issue Type | Title
 ## Step 5 - Understand the User Story and Tasks
 Read and understand the user story `#1`, and the tasks `#2`, `#3`, `#4`, `#5` and `#6` which are all linked to user story `#1`.
 
+Second commit addition
+
 
 ## Step 6 - Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearning)
 Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearning):
